@@ -1,6 +1,14 @@
 *.dat
+*.dat.icloud
 *.fits
+*.fits.icloud
 *.fits.gz
+*.fits.gz.icloud
 *.jpg
+*.jpg.icloud
 *.pdf
+*.pdf.icloud
 *.png
+*.png.icloud
+*.txt
+*.txt.icloud
